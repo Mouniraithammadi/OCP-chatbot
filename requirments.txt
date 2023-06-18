@@ -1,0 +1,4 @@
+fastapi
+pinecone-client
+pyyaml
+openai==0.27.4
